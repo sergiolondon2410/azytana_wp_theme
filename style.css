@@ -5,3 +5,22 @@
     Version: 0.0.1
     Tags: bootstrap
 */
+
+/* Content */
+/*--------------------------------------------------------------
+## Header
+--------------------------------------------------------------*/
+.site-header {
+    padding: 1em;
+  }
+  
+  .site-header.featured-image {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 90vh;
+  }
+  
+  .site-header.featured-image .site-branding-container {
+    margin-bottom: auto;
+  }
